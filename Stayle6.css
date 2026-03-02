@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-container {
+    display: flex;
+    height: 100vh; 
+}
+
+.part {
+    flex: 1; 
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    color: white;
+    font-size: 3rem;
+    font-family: serif;
+}
+
+.orange { background-color: #ffa500; }
+.blue { background-color: #0000ff; }

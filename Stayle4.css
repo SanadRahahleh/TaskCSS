@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: serif; 
+    background-color: #d2a679; 
+}
+
+.banner {
+    background-color: #8b4513; 
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #d2a679;
+    text-align: center;
+    padding: 15px 0;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #006400; 
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.content {
+    padding: 20px 40px;
+    color: #333;
+}
+
+.content h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,43 @@
+.bar{
+    display: flex;
+    border: 2px;
+    background-color: rgb(213, 208, 208);
+    height: 50px;
+    width: 75%;
+    font-size: 25px;
+    margin-left: 250px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bar span:first-of-type{
+    text-align: start;
+    padding-left: 10px;
+}
+.bar span:nth-of-type(2){
+    text-align: end;
+   padding-right: 25px;
+    
+}
+.Mdiv{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    gap: 7px;
+    margin: 10% 40%;
+    font-family: 'cursive';
+
+}
+.Mdiv input{
+    height: 25px;
+    width: 300px;
+}
+.b{
+    background-color: rgb(74, 134, 255);
+    font-size: 25px;
+    font-family: 'cursive';
+    width: 310px;
+    height: 37px;
+    margin-top:10px;
+
+}

@@ -1,0 +1,26 @@
+.div1{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    width: 500px;
+    border-radius:15px ;
+    margin: 100px 450px;
+    align-items: center;
+    gap: 40px;
+}
+.div1 >input{
+    height: 50px;
+    width: 450px;
+}
+.div2{
+margin-top: -30px;
+margin-right: 330px;}
+.div1 button
+{
+ background-color: green;
+ height: 50px;
+ width: 100px;
+ border-radius: 15px;
+ color: rgb(255, 255, 255);
+}
